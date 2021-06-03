@@ -1,2 +1,2 @@
 # portfolio
- Meu portifólio (teste)
+ Meu portifólio (teste/incompleto)
