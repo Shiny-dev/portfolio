@@ -13,4 +13,4 @@ O projeto está **arquivado**, quem sabe no futuro talvez eu finalize ele, volte
 
 ---
 
-<img src="https://api.iconify.design/ri:article-fill.svg?color=%23f9f9f9" height="15"> `README` Design por: **[KomashiFX](https://dsc.bio/komashioficial)**
+<img src="https://api.iconify.design/ri:article-fill.svg?color=%23f9f9f9" height="15"> `README` Design por: **r/Komashi愛 ✧ 𝐄𝐗𝐀𝐃𝐈𝐀#0693**
